@@ -3,9 +3,9 @@ This is a Youtube video downloader application made with python.
 
 Steps:
 1. First download all the files.
-2. Then use any choice of code editor to open the Python file. 
-3. Open the "THEBOLDFONT.otf" file and install the font type.
-3. Now you are all set and ready to go!!
+2. Open the "THEBOLDFONT.otf" file and install the font type.
+3. Then use any choice of code editor to open the Python file or if you want to run the application you can open the .exe file. 
+4. Now you are all set and ready to go!!
 
 Pictures:
 
